@@ -1,7 +1,7 @@
 ## Personal Movie - 영화 추천 웹 서비스
 
 ## 1. 팀원 및 업무 분담
-> ![image.png](./image.png)
+> ![image.png](./이미지/image.png)
 > - Back-end와 Front-end를 업무 분담하여 프로젝트에 참여하였습니다.  
   
 
