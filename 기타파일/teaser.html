@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    const fetch = require('node-fetch');
+
+    const url = 'https://api.themoviedb.org/3/movie/787699/videos?language=ko-KR';
+    const options = {
+    method: 'GET',
+    headers: {
+        accept: 'application/json',
+        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMjU1MmEzNTZhODFmOWFkMGNjNjI5ZDc2MTczM2E2ZSIsInN1YiI6IjY1M2IyMDZkMTA5Y2QwMDEyY2ZlMWM2NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xvc1lNO-GfA8WawbWe8UAhyF73WIcUz-1QpAkpqqHGo'
+    }
+    };
+
+    fetch(url, options)
+        .then(res => res.json())
+        .then(json => console.log(json))
+        .catch(err => console.error('error:' + err));
+    </script>
+</body>
+</html>

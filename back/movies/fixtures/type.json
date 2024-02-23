@@ -1,0 +1,1 @@
+[{"model": "movies.type", "pk": "애니메이션", "fields": {"name": "애니메이션"}}, {"model": "movies.type", "pk": "극영화", "fields": {"name": "극영화"}}, {"model": "movies.type", "pk": "(실황)공연물", "fields": {"name": "(실황)공연물"}}, {"model": "movies.type", "pk": "다큐멘터리", "fields": {"name": "다큐멘터리"}}]

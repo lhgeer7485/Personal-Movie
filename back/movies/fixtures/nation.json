@@ -1,0 +1,1 @@
+[{"model": "movies.nation", "pk": "일본", "fields": {"name": "일본"}}, {"model": "movies.nation", "pk": "대한민국", "fields": {"name": "대한민국"}}, {"model": "movies.nation", "pk": "해외영화", "fields": {"name": "해외영화"}}, {"model": "movies.nation", "pk": "중국", "fields": {"name": "중국"}}]
