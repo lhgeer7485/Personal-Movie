@@ -7,14 +7,14 @@
 
 
 ## 2. 서비스 구현
-> ![image-1.png](./image-1.png)
+> ![image-1.png](./이미지/image-1.png)
 
 > - 처음 입장 화면  
 
 
 
 
-> ![image-2.png](./image-2.png)
+> ![image-2.png](./이미지/image-2.png)
 
 > - 회원가입 페이지
 > - 처음 입장 시 회원가입 필요
@@ -24,14 +24,14 @@
 
 
 
-> ![image-3.png](./image-3.png)
+> ![image-3.png](./이미지/image-3.png)
 
 > - 로그인 페이지  
 
 
 
 
-> ![image-4.png](./image-4.png)
+> ![image-4.png](./이미지/image-4.png)
 
 > - 메인 페이지
 > - 케러셀을 이용하여 자동으로 포스터가 움직이게 만들었습니다.
@@ -45,7 +45,7 @@
 
 
 
-> ![image-5.png](./image-5.png)
+> ![image-5.png](./이미지/image-5.png)
 
 > - 마이 페이지
 > - 유저의 기본 정보와 찜한 영화의 목록을 보여준다.  
@@ -53,7 +53,7 @@
 
 
 
-> ![image-6.png](./image-6.png)
+> ![image-6.png](./이미지/image-6.png)
 
 > - 검색창
 > - 검색어 입력 시, 일치하는 영화의 상세정보 화면으로 이동한다.
@@ -62,8 +62,8 @@
 
 
 
-> ![image-7.png](./image-7.png)
-> ![image-8.png](./image-8.png)
+> ![image-7.png](./이미지/image-7.png)
+> ![image-8.png](./이미지/image-8.png)
 
 > - 영화 상세정보 페이지
 > - [예고편 보러가기] 클릭 시, 영화의 티져 영상을 모달을 통해 보여준다.
@@ -74,8 +74,8 @@
 
 
 
-> ![image-9.png](./image-9.png)
-> ![image-21.png](./image-21.png)
+> ![image-9.png](./이미지/image-9.png)
+> ![image-21.png](./이미지/image-21.png)
 
 > - Category 페이지
 > - 장르 / 나라 / 분류별 태그가 표시된다.
@@ -84,7 +84,7 @@
 
 
 
-> ![image-11.png](./image-11.png)
+> ![image-11.png](./이미지/image-11.png)
 
 > - Recommended 페이지
 > - 오늘의 추천영화(추천 알고리즘) : 사용자와 같은 연령대 및 성별의 다른 사용자들이 찜한 영화의 목록을 좋아요순으로 각각 정렬하여 서로 중복되는 영화를 우선적으로 추천한다.
@@ -94,7 +94,7 @@
 
 
 
-> ![image-12.png](./image-12.png)
+> ![image-12.png](./이미지/image-12.png)
 
 > - Cinema 페이지
 > - 키워드 입력시, 주변 영화관을 지도로 보여준다.  
@@ -102,9 +102,9 @@
 
 
 
-> ![image-13.png](./image-13.png)
-> ![image-15.png](./image-15.png)
-> ![image-18.png](./image-18.png)
+> ![image-13.png](./이미지/image-13.png)
+> ![image-15.png](./이미지/image-15.png)
+> ![image-18.png](./이미지/image-18.png)
 
 > - MyWorldcup 페이지
 > - 영화 이상형 월드컵 구현
@@ -113,11 +113,11 @@
   
 
 ## 3. 데이터 베이스 모델링 (ERD)
-> ![image-19.png](./image-19.png)
+> ![image-19.png](./이미지/image-19.png)
   
   ## 4. URL 명세서
 
-  > ![image-20.png](./image-20.png)
+  > ![image-20.png](./이미지/image-20.png)
 
 ## 5. Vue 구성
     
